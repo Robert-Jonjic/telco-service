@@ -34,11 +34,11 @@ build/
 *.trace.db
 data/
 
-+ # Local environment / secrets
-+ .env
-+ .envrc
-+ *.local
-+ run.sh
+# Local environment / secrets
+.env
+.envrc
+*.local
+run.sh
 
 ### VS Code ###
 .vscode/
