@@ -1,0 +1,8 @@
+target/
+data/
+.git/
+.idea/
+*.iml
+.env
+.envrc
+run.sh
